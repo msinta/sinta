@@ -1,6 +1,6 @@
  # Sinta 🚀
 #### Stop wasting time, hire faster and better.
-🔗  Sinta Home(https://sintaapp.com/)
+🔗  [Sinta Home](https://sintaapp.com/)
 
 ## Problem:
 - Businesses spend too much time & move too slowly on hiring. On average, completing a hiring cycle will take 2-3 months
@@ -107,8 +107,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Team Members
 - [Tashika Cruz](https://www.linkedin.com/in/tashikacruz/)
-- [Thomas Price] 
-- [Sammy Kavanagh]
+- [Thomas Price](https://github.com/Wombobb)
+- [Sammy Kavanagh](https://github.com/sammyxxi)
  
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
