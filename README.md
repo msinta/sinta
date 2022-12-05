@@ -1,22 +1,20 @@
 📚 Sinta
 (Helping create a equitable hiring process)
 
-
-**Problem:**
-Businesses spend too much time & move too slowly on hiring. On average, completing a hiring cycle will take 2-3 months
-
-**Solution:**
-Sinta is a Web app that integrates with Slack's API hat allows teams to quickly assess candidates realtime and reduce time to a decision
-
- 
 <br>
 App home: https://sintaapp.com/
    
 
-<Screenshots of Platform>
-<img width="1512" alt="Screen Shot 2022-12-05 at 11 26 59 AM" src="https://user-images.githubusercontent.com/114022804/205537458-505ac56b-4b6d-4255-8167-59f9acc72ea8.png">
+## Problem:**
+Businesses spend too much time & move too slowly on hiring. On average, completing a hiring cycle will take 2-3 months
+
+## Solution:**
+Sinta is a Web app that integrates with Slack's API hat allows teams to quickly assess candidates realtime and reduce time to a decision
+
+
+   
 <img width="1512" alt="Screen Shot 2022-12-05 at 11 27 11 AM" src="https://user-images.githubusercontent.com/114022804/205537462-a466203e-83c3-469d-bf4a-7cfc5b05d684.png">
-<img width="1512" alt="Screen Shot 2022-12-05 at 11 27 44 AM" src="https://user-images.githubusercontent.com/114022804/205537471-b34c6215-0c4b-4334-8c01-98a2eee62582.png">
+
 
 
 
@@ -109,5 +107,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License
+## More Screenshots of Platform
+ <img width="1512" alt="Screen Shot 2022-12-05 at 11 26 59 AM" src="https://user-images.githubusercontent.com/114022804/205537458-505ac56b-4b6d-4255-8167-59f9acc72ea8.png">
+<img width="1512" alt="Screen Shot 2022-12-05 at 11 27 44 AM" src="https://user-images.githubusercontent.com/114022804/205537471-b34c6215-0c4b-4334-8c01-98a2eee62582.png">
