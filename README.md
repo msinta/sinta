@@ -1,6 +1,6 @@
  # Sinta 🚀
 #### Stop wasting time, hire faster and better.
-🔗 - https://sintaapp.com/
+🔗  Sinta Home(https://sintaapp.com/)
 
 ## Problem:
 - Businesses spend too much time & move too slowly on hiring. On average, completing a hiring cycle will take 2-3 months
