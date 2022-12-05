@@ -14,6 +14,9 @@ Sinta is a Web app that integrates with Slack's API hat allows teams to quickly 
 
  <img width="1507" alt="Screen Shot 2022-12-05 at 12 14 54 PM" src="https://user-images.githubusercontent.com/114022804/205541769-bc8de7fe-ce85-465d-b932-479a3a94d023.png">
 
+### Slack Intergration
+<img width="1451" alt="Screen Shot 2022-12-05 at 12 01 56 PM" src="https://user-images.githubusercontent.com/114022804/205540405-82b255b1-52b7-4913-b102-090871c0e263.png">
+
 
 
 ## Getting Started
@@ -117,6 +120,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
  <img width="1512" alt="Screen Shot 2022-12-05 at 11 26 59 AM" src="https://user-images.githubusercontent.com/114022804/205537458-505ac56b-4b6d-4255-8167-59f9acc72ea8.png">
 <img width="1512" alt="Screen Shot 2022-12-05 at 11 27 44 AM" src="https://user-images.githubusercontent.com/114022804/205537471-b34c6215-0c4b-4334-8c01-98a2eee62582.png">
 
-### Slack Intergration
-<img width="1451" alt="Screen Shot 2022-12-05 at 12 01 56 PM" src="https://user-images.githubusercontent.com/114022804/205540405-82b255b1-52b7-4913-b102-090871c0e263.png">
 
