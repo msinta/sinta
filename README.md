@@ -1,20 +1,24 @@
-Kyoro
-Kyoro is an Engagement Management tool, designed to make keeping track of your remote teams easier. Integration with Slack to send surveys, receive responses and feedback. Responses are compiled and displayed in graph-form on the Kyoro Dashboard and other pages.
-
-
-
-
 📚 Sinta
+(Helping create a equitable hiring process)
 
-Helping create a equitable hiring process
-<img width="1512" alt="Screen Shot 2022-12-05 at 11 26 59 AM" src="https://user-images.githubusercontent.com/114022804/205537458-505ac56b-4b6d-4255-8167-59f9acc72ea8.png">
-<img width="1512" alt="Screen Shot 2022-12-05 at 11 27 11 AM" src="https://user-images.githubusercontent.com/114022804/205537462-a466203e-83c3-469d-bf4a-7cfc5b05d684.png">
-<img width="1512" alt="Screen Shot 2022-12-05 at 11 27 44 AM" src="https://user-images.githubusercontent.com/114022804/205537471-b34c6215-0c4b-4334-8c01-98a2eee62582.png">
+
+**Problem:**
+Businesses spend too much time & move too slowly on hiring. On average, completing a hiring cycle will take 2-3 months
+
+**Solution:**
+Sinta is a Web app that integrates with Slack's API hat allows teams to quickly assess candidates realtime and reduce time to a decision
 
  
 <br>
 App home: https://sintaapp.com/
    
+
+<Screenshots of Platform>
+<img width="1512" alt="Screen Shot 2022-12-05 at 11 26 59 AM" src="https://user-images.githubusercontent.com/114022804/205537458-505ac56b-4b6d-4255-8167-59f9acc72ea8.png">
+<img width="1512" alt="Screen Shot 2022-12-05 at 11 27 11 AM" src="https://user-images.githubusercontent.com/114022804/205537462-a466203e-83c3-469d-bf4a-7cfc5b05d684.png">
+<img width="1512" alt="Screen Shot 2022-12-05 at 11 27 44 AM" src="https://user-images.githubusercontent.com/114022804/205537471-b34c6215-0c4b-4334-8c01-98a2eee62582.png">
+
+
 
 ## Getting Started
 ### Setup
@@ -52,7 +56,7 @@ rails s
 
 
 ###Prerequisites:
-Cloudinary API account Slack App with the following features / functionality:
+Slack App with the following features / functionality:
 
 Incoming Webhooks
 Interactive Components
@@ -67,7 +71,8 @@ Paste the following into Request URL field in Interactivity & Shortcuts tab
 https://kyoro-manager.herokuapp.com/api/v1/user_answers
 ```
 
-Create a Slash Command to collect Anonymous Feedback Create New Command called /feedbackbox or whatever you'd like and paste the following into Reauest URL field in the edit page
+Create a Slash Interview Kit to collect Feedback From your Team Members on Canadiates in Your Interview Cycles!
+ 
 ```
 https://kyoro-manager.herokuapp.com/api/v1/user_answers
 ```
@@ -96,15 +101,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - [Bootstrap](https://getbootstrap.com/) — Styling
 - [Figma](https://www.figma.com) — Prototyping
 
-## Acknowledgements
-Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
-
 ## Team Members
-- [Sammy K]
-- [Tashika]
-- [Thomas Price]
-- [Douglas Berkley](https://www.linkedin.com/in/dougberkley/)
-
+- [Tashika Cruz](https://www.linkedin.com/in/tashikacruz/)
+- [Thomas Price] 
+- [Sammy Kavanagh]
+ 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
