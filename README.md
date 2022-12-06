@@ -7,7 +7,7 @@
 - Lack of collaboration creates the need for unnecessary meetings. Not enough information or data on what's working and what's not.
 
 ## Solution:
-Sinta is a Web app that integrates with Slack's API hat allows teams to quickly assess candidates realtime and reduce time to a decision.  
+Sinta is a Web app that integrates with Slack's API that allows teams to quickly assess candidates realtime and reduce time to a decision.  
 
 - Setup an interview in seconds ~ interview guides based on competencies
 - Faster decisions ~ Debrief on interviews & collaborate asynchronously. Hire within days, not weeks
